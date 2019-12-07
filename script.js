@@ -13,6 +13,8 @@ function getHasil(comp, player){
 
 }
 
+//penambahan
+
 //function putar
 function putar(){
     const imgComputer = document.querySelector('.img-komputer');
